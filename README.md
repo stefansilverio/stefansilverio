@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefansilverio
-- 👀 I’m interested in low-level programming and cyber-security
-- 🌱 I’m currently learning: binary exploitation, reverse engineering, network security, etc
+- 👀 I’m interested in low-level programming, cyber-security, and algorithm development
+- 🌱 I’m currently learning: binary exploitation, reverse engineering, network security, api integration, etc
 - 💞️ I’m looking to collaborate on finding security bugs in open source software projects / projects
 - 📫 How to reach me: stefansilverio@gmail.com
 
